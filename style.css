@@ -243,6 +243,7 @@
     transform: rotate(-90deg);
     left: -220px;
     font-size: 3.5em;
+    color: white;
 }
 .right-bottom img{
     width: 100%;
